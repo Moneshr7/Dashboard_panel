@@ -1,4 +1,4 @@
- Admin Dashboard
+🚀 Admin Dashboard
 
 This Dashboard is a sleek, responsive admin dashboard built for modern web apps. Whether you’re managing users, tracking orders, or monitoring earnings, Dashboard makes it simple — and beautiful.
 
