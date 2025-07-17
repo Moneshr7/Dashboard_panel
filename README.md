@@ -36,7 +36,4 @@ Dashboard look:
 <img width="1910" height="919" alt="Screenshot 2025-07-17 100747" src="https://github.com/user-attachments/assets/4c13fbcb-8a56-46dc-91f2-a93501e994c2" />
 
 
-🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to add or improve.
-
    Made by Monesh 
